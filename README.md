@@ -18,6 +18,5 @@
 5. *Celebrate!* 
 
 
-
 # Open index.html in your browser
 # That's it! No build process required! 🎉
